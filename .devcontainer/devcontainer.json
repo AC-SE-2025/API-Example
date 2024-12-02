@@ -23,7 +23,8 @@
     },
     "vscode": {
       "extensions": [
-        "ms-python.python"
+        "ms-python.python",
+        "yy0931.vscode-sqlite3-editor"
       ]
     }
   },
